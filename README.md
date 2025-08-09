@@ -4,4 +4,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,spring,react,postgres,idea&theme=dark&perline=9)](https://skillicons.dev)    
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=lvanrooijen&theme=ambient-gradient&locale=nl&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 </div>
